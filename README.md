@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Danishkaleem
 - 👀 I’m interested in programming...
-- 🌱 I’m currently learning programming languages like java,html,css,java script.
+- 🌱 I’m currently learnin javaScript.
