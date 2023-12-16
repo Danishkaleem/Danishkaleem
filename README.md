@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Danishkaleem
 - 👀 I’m interested in programming...
-- 🌱 I’m currently learnin javaScript.
+- 🌱 I’m currently learning javaScript.
