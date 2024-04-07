@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @Danishkaleem
-- 👀 I’m interested in programming...
-- 🌱 I’m currently learning javaScript.
+- 👋 Hi, I’m Danish Kaleem
+- 👀 I’m interested in Web development.
+- 🌱 I know JavaScript, React.js ⚛️, Express.js 🚀, MS SQL 🛢️, C# ♯.
+- 💼 I am a fresher seeking an internship or fresher job.
